@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👯 I’m looking to collaborate on Laravel, NodeJs, VueJs projects
-- 🚀 I’m interested in gaining proficiency in Software Development
+- 🚀 I’m interested in gaining proficiency in Software Development and Mobile Apps
 - 📫 Upwork: https://www.upwork.com/freelancers/~0162195ebb76c3aaf4?mp_source=share

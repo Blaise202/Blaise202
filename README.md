@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 Upwork: https://www.upwork.com/freelancers/~0162195ebb76c3aaf4?mp_source=share
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?Blaise202=DenverCoder1)](https://git.io/streak-stats)

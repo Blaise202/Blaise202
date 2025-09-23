@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 - 🚀 I’m interested in gaining proficiency in Software Development and Mobile Apps
 - 📫 Upwork: https://www.upwork.com/freelancers/~0162195ebb76c3aaf4?mp_source=share
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Blaise202)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Blaise202&theme=dark)](https://git.io/streak-stats)

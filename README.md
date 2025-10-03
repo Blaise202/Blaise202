@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blaise202&layout=compact&theme=dark)
 
 ### 🥋 Codewars Stats
-![Codewars](https://www.codewars.com/users/YOUR_CODEWARS_USERNAME/badges/large)
+![Codewars](https://www.codewars.com/users/Blaise202/badges/large)
 

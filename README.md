@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🚀 I’m interested in gaining proficiency in Software Development and Mobile Apps
 - 📫 Upwork: https://www.upwork.com/freelancers/~0162195ebb76c3aaf4?mp_source=share
 - 🔭 Portfolio: https://blaise202.github.io/portfolio/
-
+- ⚡Resume: https://blaise202.github.io/portfolio/Blaise_Izerimana_Resume.pdf
 
 ### 🛠️ Languages and Tools
 

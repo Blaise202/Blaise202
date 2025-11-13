@@ -1,4 +1,4 @@
-## Hi there 👋 Im Blaise Izerimana
+## Hi there 👋 I'm Blaise Izerimana
 
 <!--
 **Blaise202/Blaise202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

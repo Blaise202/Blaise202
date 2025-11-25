@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 
 
 
-### 📊 My GitHub Stats
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Blaise202&theme=dark)](https://git.io/streak-stats)
+<!-- ### 📊 My GitHub Stats-->
+ <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Blaise202&theme=dark)](https://git.io/streak-stats)-->
 <!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blaise202&show_icons=true&theme=dark)-->
 
 ### 💻 Most Used Languages
